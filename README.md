@@ -27,7 +27,5 @@ Assuming that the file is dict.txt in the current directory:
 Invocation				Output:
 ./assign4 dict.txt Tac	The anagrams of Tac are ["Cat","Act"]
 ./assign4 dict.txt STOP	The anagrams of STOP are ["Pots","SPOT","tops"]
-./assign4 dict.txt mete	The anagrams of mete are ["teem",”Meet”]
-./assign4 dict.txt GOD	The anagrams of GOD are [“dog”,"GOD"]
 ./assign4 dict.txt tar	The anagrams of tar are []
 
